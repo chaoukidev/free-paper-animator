@@ -41,24 +41,18 @@
 
 ---
 
+## 📸 Screenshot
+
+![Preview](app.PNG)
+![Video](preview.mp4)
+
+---
+
 ## 📥 Download / Releases
 
 Download the latest executable from the **Releases** section.  
 - Make sure to check the version tag (e.g., `v1.0`).  
 - Preview images or GIFs may be provided to demonstrate the effects.
-
----
-
-## 🔖 Tags / Keywords
-
-`PNG, paper animation, free animator, video export, green screen, transparent video, animation tool, motion graphics, visual effects`
-
----
-
-## 📸 Screenshot
-
-![Preview](app.PNG)
-![Preview](preview.mp4)
 
 ---
 
@@ -69,3 +63,11 @@ If you enjoy using **Free Paper Animator** and would like to support its develop
 [Donate](https://ko-fi.com/chaouki_dev)
 
 Every contribution helps improve the software and keep it free for everyone!
+
+---
+## 🔖 Tags / Keywords
+
+`PNG, paper animation, free animator, video export, green screen, transparent video, animation tool, motion graphics, visual effects`
+
+
+
