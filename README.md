@@ -6,7 +6,7 @@
 
 ## 🎨 Features
 
-- **Paper Animation Effects**: Turn any PNG image into realistic paper movements.
+- **Paper Animation Effects**: Turn any PNG image into Paper Animtion.
 - **Flexible Export Options**:
   - Green Screen Video (transparent background)
   - MOV Video (transparent)
@@ -22,10 +22,7 @@
 ---
 
 ## 💻 System Requirements
-
 - Windows 10 / 11 (64-bit)
-- Sufficient storage for exported files
-- No need to install Python or dependencies — standalone executable
 
 ---
 
@@ -44,7 +41,7 @@
 ## 📸 Screenshot
 
 ![Preview](app.PNG)
-![Video](preview.mp4)
+![Preview](preview.gif)
 
 ---
 
