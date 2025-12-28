@@ -47,9 +47,7 @@
 
 ## 📥 Download / Releases
 
-Download the latest executable from the **Releases** section.  
-- Make sure to check the version tag (e.g., `v1.0`).  
-- Preview images or GIFs may be provided to demonstrate the effects.
+Download the latest executable from the [Releases](https://github.com/chaoukidev/free-paper-animator/releases) section.  
 
 ---
 
